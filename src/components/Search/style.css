@@ -1,0 +1,11 @@
+.search__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+li,
+ul {
+  text-decoration: none;
+}
